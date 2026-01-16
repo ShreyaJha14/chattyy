@@ -27,6 +27,7 @@ The app supports live messaging using WebSockets for fast and efficient data tra
 
 1️⃣ Clone the Repository
 2️⃣ Create your own env file
+
     MONGODB_URI= your url 
     PORT=5001
     JWT_SECRET=yoursecretkey
